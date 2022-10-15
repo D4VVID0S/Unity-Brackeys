@@ -54,7 +54,7 @@ public class CharacterController2D : MonoBehaviour
             if (colliders[i].gameObject != gameObject)
             {
                 m_Grounded = true;
-                if (!wasGrounded)
+                if (wasGrounded)
                     OnLandEvent.Invoke();
             }
         }
@@ -91,7 +91,6 @@ public class CharacterController2D : MonoBehaviour
 
                 // Disable one of the colliders when crouching
                 if (m_CrouchDisableCollider != null)
-                    
                     m_CrouchDisableCollider.enabled = false;
             }
             else

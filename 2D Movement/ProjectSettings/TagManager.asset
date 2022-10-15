@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Through
   - Collectible
+  - CollectibleCherry
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -18,7 +20,7 @@ TagManager:
   - Player
   - Obstacle
   - Collection
-  - 
+  - Lever
   - 
   - 
   - 

@@ -1,21 +1,19 @@
 ﻿<Properties StartupConfiguration="{7FDC0195-8829-42A9-8C84-02FD88D3539A}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="72dc9394-d7b4-4495-a32f-d21509a016c8" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ed372df5-3310-41de-bcd2-42b13e6665b4" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ItemCollector.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CharacterController2D.cs">
     <Files>
-      <File FileName="Assets/Scripts/ItemCollector.cs" Line="17" Column="42" />
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="45" Column="17" />
+      <File FileName="Assets/Scripts/CharacterController2D.cs" Line="128" Column="32" NotebookId="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="2D Movement" expanded="True">
             <Node name="Assets" expanded="True">
-              <Node name="Scripts" expanded="True" selected="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="CharacterController2D.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
@@ -30,4 +28,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

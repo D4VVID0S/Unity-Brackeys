@@ -58,6 +58,7 @@
   <ItemGroup>
     <Compile Include="Assets/Scripts/ItemCollector.cs" />
     <Compile Include="Assets/Scripts/PlayerMovement.cs" />
+    <Compile Include="Assets/Scripts/CherryCollector.cs" />
     <Compile Include="Assets/Scripts/CharacterController2D.cs" />
   </ItemGroup>
   <ItemGroup>

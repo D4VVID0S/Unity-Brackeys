@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{56210F63-64CD-BBDD-79FD-BEF71C3422B4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Credits.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Credits.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BrackeysProject" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Credits.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7373451c-810e-419c-9068-fdd5178cbeb9" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
