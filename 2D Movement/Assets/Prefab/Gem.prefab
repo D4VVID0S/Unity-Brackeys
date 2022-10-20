@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 4521195338681829542}
   - component: {fileID: 4521195338681829541}
   - component: {fileID: 4521195338681829537}
-  m_Layer: 10
+  m_Layer: 12
   m_Name: Gem
   m_TagString: Collectible
   m_Icon: {fileID: 0}

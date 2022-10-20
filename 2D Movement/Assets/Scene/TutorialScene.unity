@@ -607,32 +607,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 256147879}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &276959814 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1649860053773539745, guid: c4695a6509a5549ac8c050cde69d3d5a,
-    type: 3}
-  m_PrefabInstance: {fileID: 1745766581}
-  m_PrefabAsset: {fileID: 0}
---- !u!95 &276959820
-Animator:
-  serializedVersion: 4
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 276959814}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: b5f8baf8401a94444b11a9864095c10a, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1001 &324372369
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1976,7 +1950,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1000398609}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -11.78, y: -0.4659999, z: -10}
+  m_LocalPosition: {x: 82.15, y: 9.66, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -2251,7 +2225,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1231631442}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -11.78, y: -0.4659999, z: -10}
+  m_LocalPosition: {x: 82.15, y: 9.66, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -4061,50 +4035,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: opossum-1
       objectReference: {fileID: 0}
-    - target: {fileID: 4769540228733940707, guid: c4695a6509a5549ac8c050cde69d3d5a,
-        type: 3}
-      propertyPath: m_Size.y
-      value: 0.17504351
-      objectReference: {fileID: 0}
-    - target: {fileID: 4769540228733940707, guid: c4695a6509a5549ac8c050cde69d3d5a,
-        type: 3}
-      propertyPath: m_Material
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 4769540228733940707, guid: c4695a6509a5549ac8c050cde69d3d5a,
-        type: 3}
-      propertyPath: m_Offset.x
-      value: -0.031245094
-      objectReference: {fileID: 0}
-    - target: {fileID: 4769540228733940707, guid: c4695a6509a5549ac8c050cde69d3d5a,
-        type: 3}
-      propertyPath: m_Offset.y
-      value: -0.036962472
-      objectReference: {fileID: 0}
-    - target: {fileID: 7173522305555659874, guid: c4695a6509a5549ac8c050cde69d3d5a,
-        type: 3}
-      propertyPath: m_Constraints
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 7670623791377211302, guid: c4695a6509a5549ac8c050cde69d3d5a,
         type: 3}
       propertyPath: m_RootOrder
       value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7670623791377211302, guid: c4695a6509a5549ac8c050cde69d3d5a,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 5.4495015
-      objectReference: {fileID: 0}
-    - target: {fileID: 7670623791377211302, guid: c4695a6509a5549ac8c050cde69d3d5a,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 5.4495015
-      objectReference: {fileID: 0}
-    - target: {fileID: 7670623791377211302, guid: c4695a6509a5549ac8c050cde69d3d5a,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 5.4495015
       objectReference: {fileID: 0}
     - target: {fileID: 7670623791377211302, guid: c4695a6509a5549ac8c050cde69d3d5a,
         type: 3}
@@ -32103,16 +32037,6 @@ PrefabInstance:
       propertyPath: CherryCounterText
       value: 
       objectReference: {fileID: 1289175469}
-    - target: {fileID: 3863331640859554037, guid: f1bb7f7d8cd8f4f369cf0e30ff219d77,
-        type: 3}
-      propertyPath: OnCrouchEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3863331640859554037, guid: f1bb7f7d8cd8f4f369cf0e30ff219d77,
-        type: 3}
-      propertyPath: OnCrouchEvent.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: OnCrouching
-      objectReference: {fileID: 0}
     - target: {fileID: 3863331640859554039, guid: f1bb7f7d8cd8f4f369cf0e30ff219d77,
         type: 3}
       propertyPath: m_RootOrder
@@ -32121,12 +32045,12 @@ PrefabInstance:
     - target: {fileID: 3863331640859554039, guid: f1bb7f7d8cd8f4f369cf0e30ff219d77,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -11.78
+      value: 82.15
       objectReference: {fileID: 0}
     - target: {fileID: 3863331640859554039, guid: f1bb7f7d8cd8f4f369cf0e30ff219d77,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.966
+      value: 9.16
       objectReference: {fileID: 0}
     - target: {fileID: 3863331640859554039, guid: f1bb7f7d8cd8f4f369cf0e30ff219d77,
         type: 3}

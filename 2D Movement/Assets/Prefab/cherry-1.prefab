@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 8484843552045497000}
   - component: {fileID: 8484843552045497001}
   - component: {fileID: 5298885842961768459}
-  m_Layer: 10
+  m_Layer: 12
   m_Name: cherry-1
   m_TagString: CollectibleCherry
   m_Icon: {fileID: 0}
@@ -26,7 +26,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8484843552045497003}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 49.37, y: 3.4791925, z: 13.888706}
   m_LocalScale: {x: 3.6477513, y: 3.6477513, z: 3.6477513}
   m_ConstrainProportionsScale: 0

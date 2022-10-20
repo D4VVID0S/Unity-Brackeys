@@ -43,7 +43,6 @@ public class PlayerMovement : MonoBehaviour
     // Turn off jumping animation
     public void OnLanding()
     {
-        //Debug.Log("Koniec skakania");
         animator.SetBool("IsJumping", false);
         Debug.Log(animator.GetBool("IsJumping"));
     }

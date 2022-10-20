@@ -364,6 +364,8 @@
 "Assets/Scripts/CharacterController2D.cs"
 "Assets/Scripts/CherryCollector.cs"
 "Assets/Scripts/ItemCollector.cs"
+"Assets/Scripts/KillEnemy.cs"
+"Assets/Scripts/OpossumMovement.cs"
 "Assets/Scripts/PlayerMovement.cs"
 -langversion:9.0
 
